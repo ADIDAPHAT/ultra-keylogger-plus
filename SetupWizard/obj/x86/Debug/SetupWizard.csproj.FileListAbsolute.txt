@@ -1,0 +1,10 @@
+C:\Users\Josh\Documents\Visual Studio 2010\Projects\Ultra Keylogger Plus\SetupWizard\bin\Debug\SetupWizard.exe
+C:\Users\Josh\Documents\Visual Studio 2010\Projects\Ultra Keylogger Plus\SetupWizard\bin\Debug\SetupWizard.pdb
+C:\Users\Josh\Documents\Visual Studio 2010\Projects\Ultra Keylogger Plus\SetupWizard\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Josh\Documents\Visual Studio 2010\Projects\Ultra Keylogger Plus\SetupWizard\obj\x86\Debug\SetupWizard.Properties.Resources.resources
+C:\Users\Josh\Documents\Visual Studio 2010\Projects\Ultra Keylogger Plus\SetupWizard\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Josh\Documents\Visual Studio 2010\Projects\Ultra Keylogger Plus\SetupWizard\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Josh\Documents\Visual Studio 2010\Projects\Ultra Keylogger Plus\SetupWizard\obj\x86\Debug\SetupWizard.exe
+C:\Users\Josh\Documents\Visual Studio 2010\Projects\Ultra Keylogger Plus\SetupWizard\obj\x86\Debug\SetupWizard.pdb
+C:\Users\Josh\Documents\Visual Studio 2010\Projects\Ultra Keylogger Plus\SetupWizard\obj\x86\Debug\SetupWizard.mainForm.resources
+C:\Users\Josh\Documents\Visual Studio 2010\Projects\Ultra Keylogger Plus\SetupWizard\obj\x86\Debug\SetupWizard.finish.resources
